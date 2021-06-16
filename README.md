@@ -1,5 +1,5 @@
 # Expense-Tracker
-This is a .NET Core MVC CRUD application.
+This is a .NET Core MVC CRUD application. I have used .NET Core MVC, Entity Framework Core, MSSQL, HTML, CSS, Bootstrap.
 
 Home Page
 ![Home](https://user-images.githubusercontent.com/68065676/122256577-06b69000-cef1-11eb-9741-17e3f29b0e55.png)
